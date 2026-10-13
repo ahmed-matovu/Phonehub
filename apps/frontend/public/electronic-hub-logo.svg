@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Electronic Hub</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#54e1c1"/>
+      <stop offset="1" stop-color="#5592ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="19" fill="#101a34"/>
+  <path d="M13 17h38v9H23v6h24v8H23v7h28v9H13z" fill="url(#g)"/>
+  <circle cx="48" cy="17" r="5" fill="#fff"/>
+</svg>
